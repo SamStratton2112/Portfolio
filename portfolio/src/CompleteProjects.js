@@ -1,7 +1,7 @@
 import StayWorldly from './StayWorldly';
 import { Link } from 'react-router-dom';
 
-const Projects = ()=>{
+const CompleteProjects = ()=>{
     return(
         <div>
             <Link to="/projects/stayworldly">Stay Worldly</Link>
@@ -9,4 +9,4 @@ const Projects = ()=>{
     )
 }
 
-export default Projects;
+export default CompleteProjects;

@@ -1,4 +1,15 @@
 .App {
   text-align: center;
+  font-family: monospace;
+  padding-top: 1rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size : cover;
+  min-height: 100vh;
 }
 
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}

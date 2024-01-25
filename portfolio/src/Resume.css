@@ -1,0 +1,20 @@
+.Resume-title-detail{
+    margin:20px;
+}
+
+.title{
+    font-weight: bolder;
+    color: rgb(76, 97, 77);
+}
+
+ul{
+    list-style: none;
+}
+
+.Resume-skills{
+    margin-top: 2rem;
+}
+
+.Resume-skills-languages{
+    margin-top: 1rem;
+}

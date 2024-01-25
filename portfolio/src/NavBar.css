@@ -1,0 +1,15 @@
+.NavBar-link{
+    color: black;
+    margin: 5%; 
+    color: rgb(231, 217, 215);
+}
+.NavBar{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: inline; 
+    background-color: rgba(134, 167, 144, 0.5)
+}
+
+a{
+    text-decoration: none;
+}
