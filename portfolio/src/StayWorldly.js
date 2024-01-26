@@ -8,7 +8,7 @@ const StayWorldly = ()=>{
             <div>
                 <label htmlFor='link'>Check out Stay Worldy here: </label>
                 <Link id="link" to='https://stay-worldly.onrender.com/'><button className='btn'>Stay Worldly</button></Link>
-                <Link className="link" to='https://github.com/SamStratton2112/StayWorldly'><button className='btn'>Stay Worldly - GitHub</button></Link>
+                <Link className="link-sw" to='https://github.com/SamStratton2112/StayWorldly'><button className='btn'>Stay Worldly - GitHub</button></Link>
             </div>
             <div >
                 <p className='p'>

@@ -5,9 +5,9 @@ const Portfolio = ()=>{
     return(
         <div className='Portfolio'>
             <h1>Portfolio</h1>
-            <div className="links">
+            <div>
                 <label htmlFor='link'>Check out the repository here: </label>
-                <Link  id="link" className="link" to='https://github.com/SamStratton2112/StayWorldly'><button className='btn'>Portfolio - GitHub</button></Link>
+                <Link id="link" to='https://github.com/SamStratton2112/Portfolio.git'><button className='btn'>Portfolio - GitHub</button></Link>
             </div>
             <div >
                 <p className='p'>

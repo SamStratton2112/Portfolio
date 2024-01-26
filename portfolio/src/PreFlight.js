@@ -1,9 +1,14 @@
 import './PreFlight.css';
+import { Link } from 'react-router-dom';
 
 const PreFlight = ()=>{
     return(
         <div className='PreFlight'>
             <h1>Capstone 2: PreFlight</h1>
+            <div>
+                <label htmlFor='link'>Check out the repository here: </label>
+                <Link id="link" to='https://github.com/SamStratton2112/Capstone2.git'><button className='btn'>PreFlight - GitHub</button></Link>
+            </div>
             <div >
                 <p className='p'>
                     This application is designed to assist travelers in anticipating and staying informed about potential flight delays. Users can access the latest weather forecasts for both departure and arrival destinations, derived from TAF reports utilized by pilots for departure preparations. These forecasts remain valid for up to 30 hours. Additionally, users have the option to receive hourly weather updates for their selected locations. For future trips, users can schedule notifications by specifying start and end dates and times.
