@@ -1,6 +1,6 @@
 # Portfolio : https://sam-stratton2112.onrender.com
 
-I built this static web app to demonstrate what I have learned while studying with Springboard. 
+I built this static web app to demonstrate  a portion of what I have learned while studying with Springboard. 
 
 ### Tech Stack: 
 #### Frontend:
