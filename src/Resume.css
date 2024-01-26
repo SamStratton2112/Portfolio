@@ -1,0 +1,47 @@
+
+.title{
+    font-weight: bolder;
+    color: black;
+    font-size: large;
+}
+
+ul{
+    list-style: none;
+}
+
+.Resume-skills{
+    font-size: .9rem;
+    text-align: left;
+}
+
+.ts{
+    text-align: left;
+    margin: 1rem;
+    margin-left:1rem ;
+}
+
+.Resume-Education, .work-experience{
+    text-align: left;
+    font-size: .9rem;
+}
+
+.work-experience{
+    margin-top:2rem;
+}
+
+.Resume{
+    width: 75vw;
+    display:inline-block;
+    margin-bottom: 1rem;
+}
+
+label{
+    font-weight: bold;
+}
+.job-title{
+    font-size: larger;
+}
+
+.sam-details{
+    margin: 3rem;
+}
