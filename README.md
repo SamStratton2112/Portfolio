@@ -6,3 +6,4 @@ I built this static web app to demonstrate  a portion of what I have learned whi
 #### Frontend:
 1. React.js
 2. CSS
+3. HTML
