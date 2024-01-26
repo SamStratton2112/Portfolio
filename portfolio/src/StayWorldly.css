@@ -1,0 +1,18 @@
+.p{
+    text-align: left;
+}
+
+.StayWorldly{
+    width: 75vw;
+    display:inline-block;
+    text-align: left;
+}
+
+.btn{
+    background-color: rgba(0, 0, 0, 0); 
+    border: 1px solid #000; 
+    color: black;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}

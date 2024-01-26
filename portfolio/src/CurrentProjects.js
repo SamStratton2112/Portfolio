@@ -1,6 +1,8 @@
+import PreFlight from "./PreFlight";
+
 const CurrentProjects = ()=>{
     return(
-        <div>PREFLIGHT</div>
+        <PreFlight/>
     )
 }
 export default CurrentProjects;

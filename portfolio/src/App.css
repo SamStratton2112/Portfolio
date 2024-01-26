@@ -1,15 +1,17 @@
 .App {
   text-align: center;
   font-family: monospace;
-  padding-top: 1rem;
   background-repeat: no-repeat;
   background-position: center;
   background-size : cover;
   min-height: 100vh;
+  background-color: rgb(246, 249, 246);
 }
 
 body, html {
   margin: 0;
   padding: 0;
   height: 100%;
+  width: 100%;
+  line-height: 1.5;
 }

@@ -1,10 +1,11 @@
 import StayWorldly from './StayWorldly';
-import { Link } from 'react-router-dom';
+import Portfolio from './Portfolio';
 
 const CompleteProjects = ()=>{
     return(
         <div>
-            <Link to="/projects/stayworldly">Stay Worldly</Link>
+            <StayWorldly/>
+            <Portfolio/>
         </div>
     )
 }

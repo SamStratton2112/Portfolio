@@ -1,10 +1,8 @@
-.Resume-title-detail{
-    margin:20px;
-}
 
 .title{
     font-weight: bolder;
-    color: rgb(76, 97, 77);
+    color: black;
+    font-size: large;
 }
 
 ul{
@@ -12,9 +10,34 @@ ul{
 }
 
 .Resume-skills{
-    margin-top: 2rem;
+    font-size: .9rem;
 }
 
-.Resume-skills-languages{
-    margin-top: 1rem;
+.ts{
+    text-align: left;
+}
+
+.Resume-Education, .work-experience{
+    text-align: left;
+}
+
+.work-experience{
+    margin-top:2rem;
+}
+
+.Resume{
+    width: 75vw;
+    display:inline-block;
+    margin-bottom: 1rem;
+}
+
+label{
+    font-weight: bold;
+}
+.job-title{
+    font-size: larger;
+}
+
+.sam-details{
+    margin: 3rem;
 }

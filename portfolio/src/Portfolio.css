@@ -1,0 +1,17 @@
+.p{
+    text-align: left;
+}
+
+.Portfolio{
+    width: 75vw;
+    display:inline-block;
+    text-align: left;
+}
+
+.btn{
+    background-color: rgba(0, 0, 0, 0); 
+    border: 1px solid #000; 
+    color: black;
+    cursor: pointer;
+    border-radius: 5px;
+}
