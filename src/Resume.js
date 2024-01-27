@@ -57,7 +57,7 @@ const Resume = ()=>{
                     <p className="t">
                     Emerson College - Film Production
                     <br/>
-                    Boston, MA | 2015-1016
+                    Boston, MA | 2015-2016
                     </p>
                     <ul>
                         <li>- Completed 48 credits</li>
