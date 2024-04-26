@@ -14,7 +14,7 @@ const StayWorldly = ()=>{
                 <p className='p'>
                     Stay Worldly is a platform designed for individuals to explore potential travel destinations. Upon registration or login, users can search for any city worldwide. Beyond providing information about the city, its attractions and a user's timezone difference from their employer(for digital nomads), users can also access information about the country and additional places to visit.
                 </p>
-                <p>Tech Stack: Python | Flask | Jinja, WTForms | SQLAlchemy | JavaScript | jQuery | CSS | Bootstrap 5 | HTML</p>
+                <p>Tech Stack: Python | Flask | Jinja | WTForms | SQLAlchemy | JavaScript | jQuery | CSS | Bootstrap 5 | HTML</p>
             </div>
         </div>
     )

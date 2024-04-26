@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const PreFlight = ()=>{
     return(
         <div className='PreFlight'>
-            <h1>Capstone 2: PreFlight</h1>
+            <h1>PreFlight</h1>
             <div>
                 <label htmlFor='link'>Check out the repository here: </label>
                 <Link id="link" to='https://github.com/SamStratton2112/Capstone2.git'><button className='btn'>PreFlight - GitHub</button></Link>
