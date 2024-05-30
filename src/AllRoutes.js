@@ -5,6 +5,7 @@ import StayWorldly from './StayWorldly';
 import Resume from './Resume';
 import CurrentProjects from './CurrentProjects';
 import CompleteProjects from './CompleteProjects';
+import Certificates from './Certificates';
 
 const AllRoutes = () =>{
     return(
@@ -16,6 +17,7 @@ const AllRoutes = () =>{
                 <Route path='/projects/complete' element={<CompleteProjects/>}/>
                 <Route path='/projects/current' element={<CurrentProjects/>}/>
                 <Route path='/resume' element={<Resume/>}/>
+                <Route path='/certificates' element={<Certificates/>}/>
                 <Route path='*' element={<Navigate to='/'/>}/>
             </Routes>
         </div>

@@ -10,6 +10,7 @@ ul{
 }
 
 .Resume-skills{
+    margin-top: 1rem;
     font-size: .9rem;
     text-align: left;
 }
@@ -43,4 +44,8 @@ label{
 
 .sam-details{
     margin: 3rem;
+}
+.summary{
+    text-align: left;
+    font-size: larger;
 }

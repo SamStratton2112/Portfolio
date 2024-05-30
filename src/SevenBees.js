@@ -15,7 +15,7 @@ const SevenBees = ()=>{
                 <p className='p'>
                 Seven Bees Honey - The Hive of E-commerce! This PERN stack web application empowers users to seamlessly browse the Seven Bees honey collection and learn detailed information about each honey and its properties. Users can conveniently purchase honey sets directly through this secure online store.
                 </p>
-                <p>Tech Stack: React.js | Node.js | Express | PostgreSQL | CSS | Bootstrap 5 | HTML</p>
+                <p>Tech Stack: JavaScript | React.js | Node.js | Express | PostgreSQL | CSS | Bootstrap 5 | HTML</p>
             </div>
         </div>
     );
