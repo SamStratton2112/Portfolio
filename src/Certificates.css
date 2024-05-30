@@ -1,6 +1,8 @@
 .certImg{
     width: 50vw;
     height: auto;
+    border-radius: .5rem;
+    margin-top: 2rem;
 }
 
 .Certificates{
