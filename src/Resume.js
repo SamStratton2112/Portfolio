@@ -45,7 +45,7 @@ const Resume = ()=>{
                     <li>- Demonstrated effective and diligent problem solving</li>
                     <li>- Identified and updated deprecated applications, increasing performance and security by 30%</li>
                     <li>- Created Stay worldly, a web application that enables users to learn about any city in the world and collect destinations</li>
-                    <li>Built a PERN web app to serve as an online store for Seven Bees honey company</li>
+                    <li>- Built a PERN web app to serve as an online store for Seven Bees honey company</li>
                     </ul>
                 </div>
                 <div className="work-experience-job">
@@ -69,8 +69,8 @@ const Resume = ()=>{
                     </p>
                     <ul>
                     <li>- Worked with teams of 100+ people and frequently trained new hires on operation standards</li>
-                    <li>Maintained quality service during the busiest of evenings which often surpassed 1,000 reservations</li>
-                    <li>Single handedly produced $15,000+ worth of beverage revenue in one extremely busy evening</li>
+                    <li>- Maintained quality service during the busiest of evenings which often surpassed 1,000 reservations</li>
+                    <li>- Single handedly produced $15,000+ worth of beverage revenue in one extremely busy evening</li>
                     <li>- Possesses exceptional patience and effective problem-solving skills</li>
                     <li>- Excellent time management, organization and multitasking skills</li>
                     </ul>
