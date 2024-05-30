@@ -17,13 +17,13 @@ const About = () =>{
                 </div>
                 <div className="About-paragraphs ">
                     <p>
-                        I am a determined individual with a diverse background and a deep appreciation for logical reasoning. Originally aspiring to be a helicopter pilot, my journey took an unexpected turn when I decided to venture into the world of technology after witnessing firsthand the outdated software plaguing the aviation industry.
+                    I am a determined professional with a diverse background and a deep appreciation for logical reasoning. Originally aspiring to be a helicopter pilot, I shifted my focus to technology after witnessing the outdated software plaguing the aviation industry.
                     </p>
                     <p>
-                        Motivated by the aspiration to be a part of the evolution of tech, I embarked on Springboard’s software engineering bootcamp. I not only honed my skills in coding but also discovered a new and exciting passion. 
+                    Discovering a passion for software development, I pursued it further and now have over a year of experience in full stack web development. I've worked on 3 major projects using various languages, including JavaScript and Python, along with libraries and frameworks like React, Express, and Flask as well as Node.js. From portfolios to online stores to RESTful API development, my full stack skill set is ever expanding.  
                     </p>
                     <p>
-                        The transition from the cockpit to the command line has been an exhilarating ride, and I am eager to continue my journey in the ever-evolving field of tech as a software developer. 
+                    The transition from the cockpit to the command line has been an exhilarating journey. I am eager to contribute my skills to new projects and continuously learning within a collaborative environments.
                     </p>
                     <div className="links">
                         <button className="btn"><Link className="link" to='https://github.com/SamStratton2112'>GitHub</Link></button>
