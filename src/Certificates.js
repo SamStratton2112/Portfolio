@@ -5,7 +5,7 @@ const Certificates = () =>{
     return(
         <div className="Certificates">
             <div className="springboard">
-                <img className="img" src={springboard} alt='Springboard Certificate'/>
+                <img className="certImg" src={springboard} alt='Springboard Certificate'/>
             </div>
         </div>
     )
