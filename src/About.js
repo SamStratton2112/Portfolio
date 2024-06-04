@@ -23,7 +23,7 @@ const About = () =>{
                     Discovering a passion for software development, I pursued it further and now have over a year of experience in full stack web development. I've worked on 3 major projects using various languages, including JavaScript and Python, along with libraries and frameworks like React, Express, and Flask as well as Node.js. From portfolios to online stores to RESTful API development, my full stack skill set is ever expanding.  
                     </p>
                     <p>
-                    The transition from the cockpit to the command line has been an exhilarating journey. I am eager to contribute my skills to new projects and continuously learning within a collaborative environments.
+                    The transition from the cockpit to the command line has been an exhilarating journey. I am eager to contribute my skills to new projects and continue learning within a collaborative environments.
                     </p>
                     <div className="links">
                         <button className="btn"><Link className="link" to='https://github.com/SamStratton2112'>GitHub</Link></button>

@@ -17,7 +17,7 @@ const AllRoutes = () =>{
                 <Route path='/projects/complete' element={<CompleteProjects/>}/>
                 <Route path='/projects/current' element={<CurrentProjects/>}/>
                 <Route path='/resume' element={<Resume/>}/>
-                <Route path='/certificates' element={<Certificates/>}/>
+                <Route path='/certifications' element={<Certificates/>}/>
                 <Route path='*' element={<Navigate to='/'/>}/>
             </Routes>
         </div>
