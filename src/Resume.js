@@ -12,7 +12,9 @@ const Resume = ()=>{
                 <span className="contact">(347) 461-8409</span>
             </div>
             <div className='summary'>
-                <span className='summaryMsg'>Dedicated and versatile professional with a diverse background and over a year of hands-on experience in full stack web development. Proficient in multiple languages, known for writing scalable, secure, and thoroughly tested code with an emphasis on readability. Demonstrates a strong aptitude for problem-solving and thrives in collaborative team settings. </span>
+            <span className="title">Summary</span>
+            <br/>
+                <p className='summaryMsg'>Dedicated and versatile professional with a diverse background and over a year of hands-on experience in full stack web development. Proficient in multiple languages, known for writing scalable, secure, and thoroughly tested code with an emphasis on readability. Demonstrates a strong aptitude for problem-solving and thrives in collaborative team settings. </p>
             </div>
             </div>
             <div className="Resume-skills">
