@@ -52,7 +52,7 @@ const Resume = ()=>{
                     <p className="t">
                     Civic Helicopters - Office Administrator 
                     <br/>
-                    2020-2023
+                    2020 - 2023
                     </p>
                     <ul>
                     <li>- Managed 20+ training schedules in compliance with FAR/AIM parts 141 and 61 over 3-4 month periods</li>
@@ -63,9 +63,9 @@ const Resume = ()=>{
                 </div>
                 <div className="work-experience-job">
                     <p className="t">
-                    Bartender/server 
+                    Bartender/server
                     <br/>
-                    2015-present
+                    2015 - present
                     </p>
                     <ul>
                     <li>- Worked with teams of 100+ people and frequently trained new hires on operation standards</li>
