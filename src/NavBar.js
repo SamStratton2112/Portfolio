@@ -10,9 +10,9 @@ const NavBar = () =>{
     return(
         <Navbar collapseOnSelect expand="lg" className="NavBar">
           <Navbar.Brand as={Link} to="/" className='me-auto nav-name'>Samantha Stratton</Navbar.Brand>
-          <Navbar.Toggle aria-controls="basic-navbar-nav"/>
-          <Navbar.Collapse id="basic-navbar-nav">
-            <Nav className="ms-auto">
+          <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
+          <Navbar.Collapse id="responsive-navbar-nav">
+          <Nav className="ms-auto">
                 <Nav.Link className='NavBar-link' as={Link} to="/projects/complete">Software Engineering Projects</Nav.Link>
                 <Nav.Link className='NavBar-link' as={Link} to="/projects/current">Current Projects</Nav.Link>
                 <Nav.Link className='NavBar-link' as={Link} to="/resume">Resume</Nav.Link>
