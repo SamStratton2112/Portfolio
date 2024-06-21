@@ -1,4 +1,8 @@
 import './Resume.css'
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const Resume = ()=>{
     return(
@@ -6,11 +10,11 @@ const Resume = ()=>{
             <div className="Resume-title">
                 <h1>Samantha Stratton</h1>
                 <h2>Software Developer </h2>
-                <div className="contacts">
-                <span className="contact">San Diego, CA</span>
-                <span className="contact">samstratton2112@gmail.com</span>
-                <span className="contact">(347) 461-8409</span>
-            </div>
+                <Row className="contacts" lg={3} md={1}>
+                <Col sm className="contact">San Diego, CA</Col>
+                <Col sm className="contact">samstratton2112@gmail.com</Col>
+                <Col sm className="contact">(347) 461-8409</Col>
+                </Row>
             <div className='summary'>
             <span className="title">Summary</span>
             <br/>
