@@ -8,8 +8,8 @@ const SevenBees = ()=>{
             <div>
                 <label htmlFor='link'>Check out SevenBees here: </label>
                 <Link id="link" to='https://sevenbees.onrender.com/'><button className='btn'>SevenBees</button></Link>
-                <Link className="link-sw" to='https://github.com/SamStratton2112/SevenBees.git'><button className='btn'>StevenBees Frontend - GitHub</button></Link>
-                <Link className="link-sw" to='https://github.com/SamStratton2112/SevenBeesBackend.git'><button className='btn'>StevenBees Backend - GitHub</button></Link>
+                <Link className="link-sw" to='https://github.com/SamStratton2112/SevenBees.git'><button className='btn'>Frontend - GitHub</button></Link>
+                <Link className="link-sw" to='https://github.com/SamStratton2112/SevenBeesBackend.git'><button className='btn'>Backend - GitHub</button></Link>
             </div>
             <div >
                 <p className='p'>
