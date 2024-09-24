@@ -18,8 +18,8 @@ const About = () => {
                 <Col sm className="contact">(347) 461-8409</Col>
             </Row>
             <Row className="details">
-                <Col md={12} xl={4} className="headshot"><img className="img" src={headshot} alt='Headshot' /></Col>
-                <Col md={12} xl={8} className="details-msg">
+                <Col sm={12} xl={4} className="headshot"><img className="img" src={headshot} alt='Headshot' /></Col>
+                <Col sm={12} xl={8} className="details-msg">
                     <p className="About-paragraphs">
                         I am a passionate and driven professional with a unique journey from aspiring helicopter pilot to dedicated software engineer. My transition into technology was sparked by a desire to modernize the outdated software systems I encountered in aviation.
                     </p>
