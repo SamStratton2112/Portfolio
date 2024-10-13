@@ -65,10 +65,10 @@ const Resume = ()=>{
                     2020 - 2023
                     </p>
                     <ul>
-                    <li>- Managed 20+ training schedules in compliance with FAR/AIM parts 141 and 61 over 3-4 month periods</li>
-                    <li>- Increased part 141 graduation rate by 20% after creating and implementing a meticulous record keeping system</li>
-                    <li>- Administered State and Federal Exams</li>
-                    <li>- Maintained records of all helicopter maintenance and scheduled maintenance as necessary</li>
+                    <li>- Regularly managed 20+ training schedules in compliance with FAR/AIM parts 141 and 61 over 3-4 month periods.</li>
+                    <li>- Optimized record-keeping processes allowing for more students to meet program requirements efficiently, resulting in a 20% increase in graduation rates under Part 141.</li>
+                    <li>- Administered State and Federal Exams.</li>
+                    <li>- Maintained records of all helicopter maintenance and scheduled maintenance as necessary.</li>
                     </ul>
                 </div>
                 <div className="work-experience-job">
@@ -78,11 +78,9 @@ const Resume = ()=>{
                     2015 - present
                     </p>
                     <ul>
-                    <li>- Worked with teams of 100+ people and frequently trained new hires on operation standards</li>
-                    <li>- Maintained quality service during the busiest of evenings which often surpassed 1,000 reservations</li>
-                    <li>- Single handedly produced $15,000+ worth of beverage revenue in one extremely busy evening</li>
-                    <li>- Possesses exceptional patience and effective problem-solving skills</li>
-                    <li>- Excellent time management, organization and multitasking skills</li>
+                    <li>- Collaborated with both small and large teams to deliver high-quality service in fast-paced environments.</li>
+                    <li>- Consistently demonstrated exceptional time management and resourcefulness when overcoming obstacles.</li>
+                    <li>- Assisted in training new hires on service standards, fostering a cohesive and efficient team.</li>
                     </ul>
                 </div>
             </div>
@@ -95,8 +93,8 @@ const Resume = ()=>{
                     November 2022 - May 2024
                     </p>
                     <ul>
-                        <li>- Online software engineering bootcamp with 700+ hours of hands-on course material</li>
-                        <li>- 1 on 1 industry professional mentor oversight</li>
+                        <li>- Online software engineering bootcamp with 700+ hours of hands-on course material.</li>
+                        <li>- 1 on 1 industry professional mentor oversight.</li>
                     </ul>
                 </div>
                 <div>
@@ -106,8 +104,8 @@ const Resume = ()=>{
                     Carlsbad, CA | 2020-2023
                     </p>
                     <ul>
-                        <li>- Obtained Private Helicopter License</li>
-                        <li>- Some Commercial and Instrument License training</li>
+                        <li>- Obtained Private Helicopter License.</li>
+                        <li>- Some Commercial and Instrument License training.</li>
                     </ul>
                 </div>
                 <div>
@@ -117,7 +115,7 @@ const Resume = ()=>{
                     Boston, MA | 2015-2016
                     </p>
                     <ul>
-                        <li>- Completed 48 credits</li>
+                        <li>- Completed 48 credits.</li>
                     </ul>
                 </div>
             </div>
