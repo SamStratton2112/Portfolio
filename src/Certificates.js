@@ -1,5 +1,5 @@
 import './Certificates.css'
-import springboard from './static/springboard.png'
+import springboard from './static/springboard.jpg'
 
 const Certificates = () =>{
     return(
