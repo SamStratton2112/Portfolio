@@ -11,7 +11,7 @@ const Portfolio = ()=>{
             </div>
             <div >
                 <p className='p'>
-                    This website showcases the skills I honed during Springboard's software engineering bootcamp
+                    This website showcases the skills I honed during Springboard's software engineering bootcamp.
                 </p>
                 <p>Tech Stack: JavaScript | React.js | CSS | Jest</p>
             </div>

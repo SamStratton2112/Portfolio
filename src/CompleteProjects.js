@@ -5,6 +5,7 @@ import SevenBees from './SevenBees';
 const CompleteProjects = ()=>{
     return(
         <div>
+            <br/>
             <SevenBees/>
             <StayWorldly/>
             <Portfolio/>

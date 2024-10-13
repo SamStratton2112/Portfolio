@@ -1,11 +1,11 @@
-import Josh from "./Josh";
-import PreFlight from "./PreFlight";
+import Mike from "./Mike";
+import Nonlocal from "./Nonlocal";
 
 const CurrentProjects = ()=>{
     return(
         <>
-        <Josh/>
-        <PreFlight/>
+        <Mike/>
+        <Nonlocal/>
         </>
     )
 }

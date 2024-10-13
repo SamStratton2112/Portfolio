@@ -18,7 +18,7 @@ const Resume = ()=>{
             <div className='summary'>
             <span className="title">Summary</span>
             <br/>
-                <p className='summaryMsg'>Dedicated and versatile professional with a diverse background and over a year of hands-on experience in full stack web development. Proficient in multiple languages, known for writing scalable, secure, and thoroughly tested code with an emphasis on readability. Demonstrates a strong aptitude for problem-solving and thrives in collaborative team settings. </p>
+                <p className='summaryMsg'>Adaptable full stack developer with over two years of hands-on experience building secure, scalable applications. Proven ability to write maintainable code focused on performance and readability. Demonstrates a strong aptitude for problem-solving and thrives in collaborative team settings. </p>
             </div>
             </div>
             <div className="Resume-skills">
@@ -32,6 +32,10 @@ const Resume = ()=>{
                 <div className="Resume-skills-Frameworks-Libraries">
                     <label  htmlFor="frameworks-libraries">- Frameworks and Libraries</label>
                     <p id="frameworks-libraries">React.js | Node.js | Express.js | Axios | jQuery | Flask | Bootstrap | WTForms | Jinja | SQLAlchemy</p>
+                </div>
+                <div className="Resume-skills-database">
+                    <label  htmlFor="database">- Database Management</label>
+                    <p id="database">PostgreSQL</p>
                 </div>
                 <div className="Resume-skills-testing">
                     <label  htmlFor="testing">- Testing</label>
@@ -47,11 +51,11 @@ const Resume = ()=>{
                     November 2022 - May 2024
                     </p>
                     <ul>
-                    <li>- Designed, developed, tested, documented and deployed multiple Python and Javascript applications</li>
-                    <li>- Demonstrated effective and diligent problem solving</li>
-                    <li>- Identified and updated deprecated applications, increasing performance and security by 30%</li>
-                    <li>- Created Stay worldly, a web application that enables users to learn about any city in the world and collect destinations</li>
-                    <li>- Built a PERN web app to serve as an online store for Seven Bees honey company</li>
+                    <li>- Designed, developed, tested, documented and deployed multiple web applications in Javascript and Python.</li>
+                    <li>- Demonstrated effective and diligent problem solving abilities.</li>
+                    <li>- Identified and updated deprecated applications, increasing performance and security by 30%.</li>
+                    <li>- Created Stay worldly, a web application that educates users about any city in the world.</li>
+                    <li>- Built a PERN web app to serve as an online store for Seven Bees honey company.</li>
                     </ul>
                 </div>
                 <div className="work-experience-job">
