@@ -4,7 +4,7 @@ import './Portfolio.css'
 const Portfolio = ()=>{
     return(
         <div className='Portfolio'>
-            <h1>Professional Portfolio</h1>
+            <h1>Personal Professional Portfolio</h1>
             <div>
                 <label htmlFor='link'>Check out the repository here: </label>
                 <Link id="link" to='https://github.com/SamStratton2112/Portfolio.git'><button className='btn'>Portfolio - GitHub</button></Link>
