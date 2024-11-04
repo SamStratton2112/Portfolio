@@ -6,6 +6,7 @@ import Resume from './Resume';
 import CurrentProjects from './CurrentProjects';
 import CompleteProjects from './CompleteProjects';
 import Certificates from './Certificates';
+import Contact from './Contact';
 
 const AllRoutes = () =>{
     return(
@@ -18,6 +19,7 @@ const AllRoutes = () =>{
                 <Route path='/projects/current' element={<CurrentProjects/>}/>
                 <Route path='/resume' element={<Resume/>}/>
                 <Route path='/certifications' element={<Certificates/>}/>
+                <Route path='/contact' element={<Contact/>}/>
                 <Route path='*' element={<Navigate to='/'/>}/>
             </Routes>
         </div>
