@@ -16,7 +16,7 @@ const Mike = ()=>{
                 <p className='p'>
                 This static web app is crafted to showcase a comprehensive professional portfolio for my client, emphasizing his diverse talents as an actor, model, and DJ. It offers a polished overview of his career, featuring a detailed biography, notable accomplishments in each field, and information about his current residencies. Additionally, a user-friendly contact page facilitates easy outreach for potential collaborators, clients, and fans. The app is designed to provide an engaging experience that authentically reflects the client’s unique artistic identity.
                 </p>
-                <p>Tech Stack: JavaScript | React.js | CSS | HTML | Bootstrap | Jest</p>
+                <p>Tech Stack: JavaScript | React.js | CSS | HTML | Bootstrap | Jest | Emailjs</p>
                
             </div>
         </div>
