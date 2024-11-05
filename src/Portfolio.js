@@ -13,7 +13,7 @@ const Portfolio = ()=>{
                 <p className='p'>
                     This website showcases the skills I honed during Springboard's software engineering bootcamp.
                 </p>
-                <p>Tech Stack: JavaScript | React.js | CSS | Jest</p>
+                <p>Tech Stack: JavaScript | React.js | CSS | Jest | Emailjs</p>
             </div>
         </div>
     )
