@@ -23,7 +23,7 @@ const Contact = () => {
         ).then(
             () => {
                 console.log('SUCCESS!');
-                alert("Thank you for reaching out, I'll get back to you shortly");
+                alert("Thank you for reaching out! I will get back to you shortly");
                 nav('/')
             },
             (error) => {

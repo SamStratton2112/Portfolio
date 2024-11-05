@@ -24,7 +24,7 @@ const About = () => {
                         I am a passionate and driven professional with a unique journey from aspiring helicopter pilot to dedicated software engineer. My transition into technology was sparked by a desire to modernize the outdated software systems I encountered in aviation.
                     </p>
                     <p className="About-paragraphs">
-                        Pursuing this newfound passion, I completed Springboard's software engineering course, where I developed a robust skill set in full stack web development. With over a year of hands-on experience, I have successfully delivered three major projects. My technical expertise spans languages such as JavaScript and Python, and I am proficient with libraries and frameworks including React, Express, Flask, and Node.js among others.
+                        Pursuing this newfound passion, I completed Springboard's software engineering course, where I developed a robust skill set in full stack web development. My technical expertise spans languages such as JavaScript and Python, and I am proficient with libraries and frameworks including React, Express, Flask, and Node.js among others.
                     </p>
                     <p className="About-paragraphs">
                         My project portfolio includes developing professional portfolios, building online stores, and designing RESTful APIs, all of which showcase my expanding capabilities in the full stack domain. This journey from the cockpit to the command line has been thrilling, and I am excited to bring my skills and enthusiasm to innovative projects.
