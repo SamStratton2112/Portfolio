@@ -43,9 +43,9 @@ const About = () => {
                 </Col>
             </Row>
             <Row className="links">
-                <Col sm><button className="btn"><NavLink className="link" to='/projects/complete'>Completed Projects</NavLink></button></Col>
-                <Col sm><button className="btn"><Link className="link" to='https://github.com/SamStratton2112'>GitHub</Link></button></Col>
-                <Col sm><button className="btn"><Link className="link" to='https://www.linkedin.com/in/samantha-a-stratton/'>LinkedIn</Link></button></Col>
+                <Col sm><NavLink className="link" to='/projects/complete'><button className="btn">Completed Projects</button></NavLink></Col>
+                <Col sm><Link className="link" to='https://github.com/SamStratton2112'><button className="btn">GitHub</button></Link></Col>
+                <Col sm><Link className="link" to='https://www.linkedin.com/in/samantha-a-stratton/'><button className="btn">LinkedIn</button></Link></Col>
             </Row>
         </Container>
     )
